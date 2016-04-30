@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+
+table{
+	color: #FFA500;
+	font-family: Arial;
+	font-weight: bold;
+	
+}
+
+.linksvermelhos{
+	color: #ff0000;
+}
+
+body {
+	background: green;
+}
